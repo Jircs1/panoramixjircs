@@ -2,3 +2,4 @@ coloredlogs
 requests
 web3
 timeout_decorator
+aiohttp>=3.10.2 # not directly required, pinned by Snyk to avoid a vulnerability
